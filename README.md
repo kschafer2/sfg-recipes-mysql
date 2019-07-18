@@ -1,2 +1,2 @@
 # sfg-recipes-mysql
-Spring Framework Guru Recipes Application with a mySQL Database
+Spring Framework Guru Recipes Application with a MySQL Database
