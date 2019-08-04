@@ -10,6 +10,9 @@ spring:
     database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
     database: mysql
     show-sql: true
+
+#    Uncomment below to allow Hibernate to generate guru_database_create.sql file
+
 #    properties:
 #      javax:
 #        persistence:
